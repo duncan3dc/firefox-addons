@@ -1,8 +1,8 @@
 {
   "name": "dtf-abbr",
-  "title": "dtf-abbr",
+  "title": "Dream Theater Forum Abbreivations",
   "id": "jid1-bOGCn4uDABtfSQ",
-  "description": "a basic add-on",
+  "description": "Convert abbreviations from forum posts",
   "author": "",
   "license": "MPL 2.0",
   "version": "0.1"
