@@ -1,9 +1,16 @@
 {
-  "name": "facebook",
-  "title": "facebook",
-  "id": "jid1-rc051qDEepYVZg",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 2.0",
-  "version": "0.1"
+  "title": "Facebook Resize",
+  "name": "facebook-resize",
+  "version": "0.0.1",
+  "description": "Extend the width of the main content area",
+  "main": "index.js",
+  "author": "Craig Duncan",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
 }
