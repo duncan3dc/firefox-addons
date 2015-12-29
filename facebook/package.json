@@ -1,7 +1,7 @@
 {
   "title": "Facebook Resize",
   "name": "facebook-resize",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Extend the width of the main content area",
   "main": "index.js",
   "author": "Craig Duncan",
