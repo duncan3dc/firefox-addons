@@ -1,9 +1,16 @@
 {
+  "title": "Dream Theater Forum - Abbreviations",
   "name": "dtf-abbr",
-  "title": "Dream Theater Forum Abbreivations",
-  "id": "jid1-bOGCn4uDABtfSQ",
-  "description": "Convert abbreviations from forum posts",
-  "author": "",
-  "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "0.0.2",
+  "description": "Convert the common abbreviations to the full words/phrases",
+  "main": "index.js",
+  "author": "Craig Duncan",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
 }
