@@ -1,9 +1,16 @@
 {
+  "title": "Dream Theater Forum - Emoticons",
   "name": "dtf-emoticons",
-  "title": "Dream Theater Forum Emoticons",
-  "id": "jid1-3wkvlrQTRS3qAw",
-  "description": "Add extra emoticons to the post page",
-  "author": "",
-  "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "0.0.1",
+  "description": "Display extra hidden emoticons above the textarea",
+  "main": "index.js",
+  "author": "Craig Duncan",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
 }
