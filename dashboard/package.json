@@ -1,0 +1,16 @@
+{
+  "title": "Regatta Dashboard Helper",
+  "name": "dashboard",
+  "version": "0.0.1",
+  "description": "Format the Intranet to be used with inputless dashboards",
+  "main": "index.js",
+  "author": "Craig Duncan",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
