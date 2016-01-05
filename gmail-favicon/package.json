@@ -1,0 +1,16 @@
+{
+  "title": "GMail Favicon",
+  "name": "gmail-favicon",
+  "version": "0.0.2",
+  "description": "Change the favicon used with multiple tabs for GMail",
+  "main": "index.js",
+  "author": "Craig Duncan",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
